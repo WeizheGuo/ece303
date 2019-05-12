@@ -1,0 +1,5 @@
+2019-05-12 14:24:19,884  utils.py : INFO  Sending on port: 50005 and waiting for ACK on port: 50006
+2019-05-12 14:24:19,885  utils.py : INFO  [PacketHandler] Generating packets
+2019-05-12 14:24:20,015  utils.py : INFO  [PacketHandler] Starting packet transmission
+2019-05-12 14:24:21,079  utils.py : INFO  [PacketHandler] Stopping packet transmission
+2019-05-12 14:24:31,078  utils.py : INFO  [ACKHandler] Could not receive UDP packet
